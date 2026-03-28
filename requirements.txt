@@ -1,0 +1,13 @@
+# LiveKit
+livekit-agents[openai,deepgram,cartesia,silero,turn-detector]
+livekit-plugins-noise-cancellation
+
+# MCP Server
+fastmcp
+
+# RAG
+chromadb
+sentence-transformers
+
+# Utilities
+python-dotenv
