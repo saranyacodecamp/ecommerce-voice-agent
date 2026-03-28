@@ -44,6 +44,7 @@ ecommerce-voice-agent/
 ├── policies/
 │   └── policies.txt          # Store policy documents
 ├── .env                      # Backend environment variables
+├── requirements.txt          # install the required libraries
 └── frontend/                 # React frontend (agent-starter-react)
     ├── app-config.ts         # Frontend configuration
     └── .env.local            # Frontend environment variables
