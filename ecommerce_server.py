@@ -357,6 +357,22 @@ def init_sample_data():
             ("P003", "Tablet", "Versatile tablet for work and entertainment", "Apple", 4.2, 399.99),
             ("P004", "Headphones", "Noise-cancelling headphones for immersive audio", "Sony", 4.7, 199.99),
             ("P005", "Smartwatch", "Feature-rich smartwatch for fitness and connectivity", "Garmin", 4.3, 299.99),
+            ("P006", "Camera", "High-resolution camera for stunning photography", "Canon", 4.6, 899.99),
+            ("P007", "Gaming Console", "Next-gen gaming console for immersive gaming experience", "Microsoft", 4.8, 499.99),
+            ("P008", "Bluetooth Speaker", "Portable Bluetooth speaker with powerful sound", "JBL", 4.4, 149.99),
+            ("P009", "External Hard Drive", "High-capacity external hard drive for data storage", "Seagate", 4.1, 89.99),
+            ("P010", "Wireless Earbuds", "True wireless earbuds with excellent sound quality", "Apple AirPods Pro", 4.5, 249.99),
+            ("P011", "Tablet", "Versatile tablet for work and entertainment", "Samsung", 4.2, 399.99),
+            ("P012", "Smartwatch", "Feature-rich smartwatch for fitness and connectivity", "Apple", 4.3, 299.99),
+            ("P013", "Camera", "High-resolution camera for stunning photography", "Sony", 4.6, 899.99),
+            ("P014", "Gaming Console", "Next-gen gaming console for immersive gaming experience", "Nintendo", 4.8, 499.99),
+            ("P015", "Bluetooth Speaker", "Portable Bluetooth speaker with powerful sound", "Bose", 4.4, 149.99),
+            ("P016", "Laptop", "Latest model laptop with advanced features", "Dell", 4.5, 50000.00),
+            ("P017", "Smartphone", "Latest model smartphone with advanced features", "OnePlus", 4.0, 699.99),
+            ("P018", "External Hard Drive", "High-capacity external hard drive for data storage", "Western Digital", 4.1, 89.99),
+            ("P019", "Wireless Earbuds", "True wireless earbuds with excellent sound quality", "Samsung Galaxy Buds Pro", 4.5, 249.99),
+            ("P020", "Headphones", "Noise-cancelling headphones for immersive audio", "Bose", 4.7, 199.99),
+
         ]
     
         for prod_data in sample_products:
